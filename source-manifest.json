@@ -6,13 +6,13 @@
   },
   {
     "path": "404.html",
-    "bytes": 74380,
-    "sha256": "10d79f02f3f4b7c336b6c11ce5af681135d0ef4ee28063329c2771a7da8826f7"
+    "bytes": 74428,
+    "sha256": "fb3b88cd48c2616e03107d1371086d52d64a9351225d8c692c6a582d6d4b82ee"
   },
   {
     "path": "README.md",
-    "bytes": 3831,
-    "sha256": "8987501366647acff38c62de436bec06fe6c4938cc0a02889beb2cfdd2a7ff5a"
+    "bytes": 3536,
+    "sha256": "296386c585417f45925308a9feac17f209beb048402f105e4168fb7c1bc81ef4"
   },
   {
     "path": "_redirects",
@@ -26,8 +26,8 @@
   },
   {
     "path": "assets/config.json",
-    "bytes": 73,
-    "sha256": "f6b4a5fc8c65ee74d81c9e9ee8effd4bbb04962369239fd22c9631f20fea4d39"
+    "bytes": 103,
+    "sha256": "d12bfcfe1e6a8fae73c9575be8a0967fe2e455dd523045bbe61caa19d0cf737c"
   },
   {
     "path": "assets/content.json",
@@ -46,8 +46,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 74380,
-    "sha256": "10d79f02f3f4b7c336b6c11ce5af681135d0ef4ee28063329c2771a7da8826f7"
+    "bytes": 74428,
+    "sha256": "fb3b88cd48c2616e03107d1371086d52d64a9351225d8c692c6a582d6d4b82ee"
   },
   {
     "path": "package.json",
@@ -66,8 +66,8 @@
   },
   {
     "path": "scripts/verify.mjs",
-    "bytes": 2446,
-    "sha256": "b665d159883d9546455cb8f0873174c8c51f5e752714846b094f8df3724d1d8c"
+    "bytes": 2794,
+    "sha256": "0406556b12a9fc998dfc1cdb31bb1e348ed83c5e2ac7af23964f6ec16a7588f3"
   },
   {
     "path": "vercel.json",

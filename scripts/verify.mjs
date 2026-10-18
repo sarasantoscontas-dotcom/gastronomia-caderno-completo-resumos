@@ -10,6 +10,10 @@ assert.equal((html.match(/class="overview-card module-display-card /g)||[]).leng
 assert.equal((html.match(/class="lesson-sheet /g)||[]).length,9);
 assert.equal((html.match(/<section /g)||[]).length,20);
 assert(!/Física|Quântica|Newton|hdqyqhv/.test(html));
+const checkout=JSON.parse(fs.readFileSync('assets/config.json','utf8')).checkoutUrl;
+assert.equal(checkout,'https://pay.cakto.com.br/62ayqtc');
+assert.equal((html.match(/href="https:\/\/pay.cakto.com.br\/62ayqtc" target="_blank" rel="noopener noreferrer"/g)||[]).length,2);
+assert(!html.includes('Link de compra de Gastronomia em preparação.'));
 const nodes=new Map();
 function node(key){if(!nodes.has(key))nodes.set(key,{innerHTML:'',textContent:'',attributes:{},hidden:false,setAttribute(k,v){this.attributes[k]=v},getAttribute(k){return this.attributes[k]},addEventListener(k,v){this[k]=v}});return nodes.get(key)}
 const details={};

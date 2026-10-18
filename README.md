@@ -34,9 +34,7 @@ Consulta técnica complementar: Cartilha sobre Boas Práticas para Serviços de 
 
 ## Checkout
 
-Preço de apresentação: R$ 69,99, seguindo o modelo solicitado. `checkoutUrl` está inicialmente nulo, aguardando o link próprio de Gastronomia. Nenhum botão aponta ao produto de Física. Até a configuração, os botões levam à seção de acesso ou suporte e a página informa que o link está em preparação.
-
-Para ativar, informe o checkout HTTPS em `assets/config.json` e atualize também os hrefs estáticos e rótulos dos botões em `index.html` e `404.html`. Os botões com link configurado abrem em nova aba e têm texto branco sobre verde. Não é presumida taxa de plataforma. A configuração do site não altera o preço em plataformas externas.
+Preço de apresentação: R$ 69,99. Checkout de Gastronomia: `https://pay.cakto.com.br/62ayqtc`. O link está configurado em `assets/config.json` e nos botões estáticos de `index.html` e `404.html`. Os botões abrem em nova aba, com texto branco sobre verde. Não é presumida taxa de plataforma. A configuração do site não altera o preço em plataformas externas.
 
 ## Build e publicação
 
