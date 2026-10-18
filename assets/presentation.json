@@ -1,0 +1,409 @@
+{
+  "overview": [
+    [
+      "Resumos por assunto",
+      "Conceitos, técnicas, ingredientes e processos com aplicação na formação.",
+      "resumos",
+      "✎"
+    ],
+    [
+      "Flashcards de revisão",
+      "Perguntas para recuperar ideias e retomar o que ainda gera dúvida.",
+      "flashcards",
+      "↻"
+    ],
+    [
+      "Agenda acadêmica",
+      "Provas, aulas práticas, relatórios e estágio em uma semana preenchida.",
+      "agenda",
+      "▦"
+    ],
+    [
+      "Cozinha e fichas técnicas",
+      "Preparo, quantidades, rendimento e custos conectados ao registro da prática.",
+      "laboratorio",
+      "≋"
+    ],
+    [
+      "TCC e pesquisa",
+      "Pergunta, bibliografia, testes, orientação e escrita em etapas claras.",
+      "pesquisa",
+      "⌁"
+    ],
+    [
+      "Formação e docência",
+      "Graduação, oficinas, monitoria, carreira e continuidade acadêmica.",
+      "grade",
+      "◇"
+    ]
+  ],
+  "week": [
+    {
+      "day": "Segunda",
+      "date": "09/11",
+      "focus": "Preparar o estudo e a bancada",
+      "events": [
+        [
+          "08h–10h",
+          "Técnicas de cozinha",
+          "Ler o procedimento e identificar a sequência da preparação.",
+          "blue"
+        ],
+        [
+          "14h–15h",
+          "Revisão de panificação",
+          "Retomar ingredientes, desenvolvimento da massa e fermentação.",
+          "lilac"
+        ],
+        [
+          "17h–17h30",
+          "Começar a ficha técnica",
+          "Organizar ingredientes, quantidades e rendimento da prática.",
+          "yellow"
+        ]
+      ],
+      "explanation": "A semana começa conectando a aula ao que será produzido. A leitura do procedimento ajuda a perceber quais etapas dependem de outras, enquanto a revisão da tarde retoma a base necessária para a próxima prática. A ficha técnica começa com dados organizados, antes da escrita do relatório.",
+      "next": "Ao terminar o dia, registre uma dúvida de técnica e confira se as quantidades estão na mesma unidade. O objetivo do bloco curto é deixar o material preparado para avançar, sem tentar concluir toda a entrega de uma vez."
+    },
+    {
+      "day": "Terça",
+      "date": "10/11",
+      "focus": "Observar e registrar a prática",
+      "events": [
+        [
+          "08h–12h",
+          "Estágio em cozinha",
+          "Acompanhar mise en place, produção e comunicação de praça.",
+          "mint"
+        ],
+        [
+          "14h–15h",
+          "Ciência dos alimentos",
+          "Estudar emulsões, textura e relações com o processo.",
+          "blue"
+        ],
+        [
+          "18h–18h30",
+          "Diário de estágio",
+          "Registrar atividades, aprendizados e perguntas para a supervisão.",
+          "peach"
+        ]
+      ],
+      "explanation": "O estágio já ocupa um bloco importante do dia. Depois dele, vale registrar o procedimento observado, a responsabilidade assumida e o feedback recebido. A leitura de ciência dos alimentos ajuda a relacionar o resultado da preparação às escolhas de execução.",
+      "next": "Uma observação útil identifica o que aconteceu, em quais condições e o que ainda precisa ser compreendido. Uma dificuldade de organização de praça e uma dúvida sobre textura pedem próximos passos diferentes."
+    },
+    {
+      "day": "Quarta",
+      "date": "11/11",
+      "focus": "Executar, comparar e discutir",
+      "events": [
+        [
+          "08h–11h",
+          "Aula prática de panificação",
+          "Conferir mise en place e registrar o desenvolvimento da massa.",
+          "mint"
+        ],
+        [
+          "11h30–12h30",
+          "Seminário de cultura alimentar",
+          "Apresentar o recorte, as fontes e a interpretação do grupo.",
+          "pink"
+        ],
+        [
+          "16h–17h",
+          "Relatório da prática",
+          "Organizar rendimento, observações e discussão do resultado.",
+          "yellow"
+        ]
+      ],
+      "explanation": "A prática, o seminário e o relatório pedem preparações diferentes. Na bancada, interessa documentar o processo; na apresentação, explicar as fontes e o argumento; na escrita, relacionar o resultado às condições de execução registradas.",
+      "next": "Ao encerrar o bloco de escrita, deixe um avanço concreto: tabela de quantidades conferida, procedimento organizado ou discussão revisada. Se houve uma alteração de receita, ela precisa constar no registro."
+    },
+    {
+      "day": "Quinta",
+      "date": "12/11",
+      "focus": "Concluir a entrega e retomar dúvidas",
+      "events": [
+        [
+          "08h–10h",
+          "Custos e gestão",
+          "Conferir custo total, rendimento e custo por porção.",
+          "blue"
+        ],
+        [
+          "Até 18h",
+          "Entregar ficha e relatório",
+          "Revisar procedimento, tabelas, fontes e arquivo final.",
+          "yellow"
+        ],
+        [
+          "19h–19h45",
+          "Revisão para a prova",
+          "Retomar os conceitos que geraram dúvida na semana.",
+          "lilac"
+        ]
+      ],
+      "explanation": "Entregar envolve mais que terminar o texto. O fechamento confere os campos da ficha, as unidades, as observações e o atendimento ao enunciado. A revisão da noite tem um recorte definido, escolhido a partir das dúvidas e das respostas dos exercícios.",
+      "next": "Separe custo da preparação e preço de venda. Nos conteúdos de panificação, confira se consegue explicar o papel dos ingredientes e relacionar o processo à observação da aula prática."
+    },
+    {
+      "day": "Sexta",
+      "date": "13/11",
+      "focus": "Avaliar, orientar e preparar a continuidade",
+      "events": [
+        [
+          "09h–10h30",
+          "Prova de panificação",
+          "Ingredientes, desenvolvimento da massa e interpretação do processo.",
+          "pink"
+        ],
+        [
+          "14h–15h",
+          "Orientação de TCC",
+          "Apresentar fichamentos e alinhar o próximo teste do protótipo.",
+          "mint"
+        ],
+        [
+          "17h–17h30",
+          "Fechamento da semana",
+          "Conferir entregas e organizar as prioridades seguintes.",
+          "lilac"
+        ]
+      ],
+      "explanation": "A avaliação era um compromisso visível desde o começo da semana. Depois dela, o trabalho continua com a orientação e o fechamento. Leve registros do que foi lido, testado e decidido para que a conversa tenha um próximo passo claro.",
+      "next": "Antes de transferir uma tarefa, identifique o motivo da pendência: faltou uma informação, uma leitura, um teste ou tempo para escrever? O ajuste da próxima semana acompanha essa resposta."
+    }
+  ],
+  "agendaDetails": [
+    [
+      "Provas e seminários",
+      "Preparação antes da véspera.",
+      "A avaliação conversa com blocos de leitura, exercícios, apresentação e revisão. O plano dá espaço à preparação e ao fechamento.",
+      [
+        "Seminário de cultura alimentar · quarta",
+        "Organizar recorte, fontes e apresentação",
+        "Prova de panificação · sexta",
+        "Retomar conceitos e perguntas da prática"
+      ]
+    ],
+    [
+      "Revisões e exercícios",
+      "A dúvida define o que precisa voltar.",
+      "Identifique se faltou um conceito, uma leitura de procedimento, uma conversão de unidade ou uma interpretação do resultado.",
+      [
+        "Tentar explicar antes de consultar",
+        "Comparar a resposta com o resumo",
+        "Registrar a dúvida específica",
+        "Voltar ao assunto em outro momento"
+      ]
+    ],
+    [
+      "Fichas, relatórios e prazos",
+      "Uma entrega em etapas menores.",
+      "A ficha técnica e o relato da prática avançam junto do registro das quantidades, do procedimento e das observações.",
+      [
+        "Segunda · reunir ingredientes e quantidades",
+        "Quarta · organizar observações e discussão",
+        "Quinta · conferir ficha e arquivo final",
+        "Até 18h · realizar a entrega"
+      ]
+    ]
+  ],
+  "periods": [
+    [
+      "Início do curso",
+      "Conhecer a linguagem da cozinha",
+      "Fundamentos · Organização · Cultura",
+      "Relacione vocabulário, utensílios e fluxo de trabalho à formação profissional."
+    ],
+    [
+      "Construir a base",
+      "Ler ingredientes e processos",
+      "Ciência dos alimentos · Técnica dietética",
+      "Observe como método, composição e condições de execução participam do resultado."
+    ],
+    [
+      "Desenvolver a prática",
+      "Organizar e executar preparações",
+      "Cortes · Cocções · Fundos · Molhos",
+      "Registre sequência, equipamento, rendimento e critérios de resultado."
+    ],
+    [
+      "Aprofundar os processos",
+      "Comparar formulações e técnicas",
+      "Panificação · Confeitaria · Bebidas",
+      "Relacione o papel dos ingredientes às etapas e aos resultados dos testes."
+    ],
+    [
+      "Ampliar o repertório",
+      "Estudar culturas e territórios",
+      "Cozinhas do Brasil · Cozinhas do mundo",
+      "Conecte ingredientes, história, práticas e contextos de alimentação."
+    ],
+    [
+      "Integrar produção e gestão",
+      "Pensar a cozinha como operação",
+      "Custos · Cardápio · Serviço · Eventos",
+      "Organize compras, produção, equipe e informações para decisões de operação."
+    ],
+    [
+      "Construir um projeto",
+      "Investigar e registrar a prática",
+      "TCC · Estágio · Extensão",
+      "Conecte pergunta, literatura, método, atividades e evidências do percurso."
+    ],
+    [
+      "Planejar a continuidade",
+      "Reunir trabalhos e próximos passos",
+      "Portfólio · Carreira · Pós-graduação",
+      "Selecione produções, confira documentos e planeje o aprofundamento acadêmico ou profissional."
+    ]
+  ],
+  "research": [
+    [
+      "Desenvolvimento de preparação",
+      "Do ingrediente ao protótipo",
+      "Exemplo: investigar uma preparação com aproveitamento integral de um ingrediente.",
+      [
+        "Delimitar o produto e a pergunta",
+        "Organizar fontes e formulação",
+        "Registrar teste e critérios de comparação",
+        "Discutir resultados e limitações"
+      ]
+    ],
+    [
+      "Cultura e território",
+      "Alimentação com contexto",
+      "Exemplo: estudar uma preparação e sua relação com um território e uma memória alimentar.",
+      [
+        "Delimitar o recorte da investigação",
+        "Definir fontes e procedimentos",
+        "Organizar registros e categorias de análise",
+        "Interpretar o material com respeito ao contexto"
+      ]
+    ],
+    [
+      "Operação e gestão",
+      "Uma pergunta sobre a rotina de cozinha",
+      "Exemplo: analisar perdas no pré-preparo de uma produção acompanhada.",
+      [
+        "Definir o processo a observar",
+        "Planejar registros e indicadores",
+        "Comparar informações das etapas",
+        "Propor melhorias coerentes com os dados"
+      ]
+    ]
+  ],
+  "benefits": [
+    [
+      "Técnica com contexto",
+      "A leitura aproxima o procedimento do ingrediente e do resultado desejado, sem depender apenas da memorização de etapas."
+    ],
+    [
+      "Revisão ativa",
+      "Os flashcards ajudam a recuperar ideias e identificar o que ainda precisa voltar ao estudo."
+    ],
+    [
+      "Fichas mais claras",
+      "Ingredientes, quantidades, rendimento e preparo ganham uma estrutura para consulta e comparação."
+    ],
+    [
+      "Prática registrada",
+      "O relato preserva as condições da execução para explicar o resultado e planejar o teste seguinte."
+    ],
+    [
+      "Custos com significado",
+      "O cálculo por porção se conecta ao rendimento e à organização da produção."
+    ],
+    [
+      "Prazos com preparação",
+      "Fichas, relatórios e apresentações podem avançar em etapas distribuídas pela semana."
+    ],
+    [
+      "Pesquisa em etapas",
+      "Tema, método, referências e escrita se relacionam ao próximo passo da investigação."
+    ],
+    [
+      "Leitura no seu ritmo",
+      "As primeiras fichas aparecem abertas e os demais assuntos continuam disponíveis na mesma página."
+    ],
+    [
+      "Formação com identidade",
+      "Os exemplos tratam de cozinha, cultura, alimentos, gestão e experiência profissional em Gastronomia."
+    ],
+    [
+      "Semana com sentido",
+      "A agenda relaciona cada compromisso ao objetivo e à preparação necessária."
+    ],
+    [
+      "Estágio acompanhado",
+      "Diário, competências e feedbacks ajudam a registrar o que foi aprendido na prática."
+    ],
+    [
+      "Continuidade do percurso",
+      "Projetos, portfólio, docência e pós-graduação se conectam ao planejamento da formação."
+    ]
+  ],
+  "faq": [
+    [
+      "O que é o Caderno do Estudante de Gastronomia?",
+      "É um caderno digital com conteúdos de estudo e ambientes de organização acadêmica e profissional: resumos, flashcards, mapas, fichas, planner, estágio, receitas, custos e TCC."
+    ],
+    [
+      "Para quem ele foi pensado?",
+      "Para estudantes de Gastronomia que querem conectar o estudo às aulas práticas, organizar entregas e registrar projetos, receitas e experiências de estágio."
+    ],
+    [
+      "Há conteúdo de cozinha, confeitaria e panificação?",
+      "Sim. A apresentação reúne assuntos de fundamentos, técnicas, panificação, confeitaria, bebidas, cultura alimentar, segurança, gestão e formação acadêmica."
+    ],
+    [
+      "Como estudar com os resumos?",
+      "Leia a ideia central, relacione os pontos de estudo ao procedimento e tente explicar o conceito com as próprias palavras. Depois, use os cartões para revisar e registre a dúvida que precisa voltar à aula."
+    ],
+    [
+      "As respostas dos flashcards ficam visíveis?",
+      "As primeiras respostas começam abertas no celular. Os demais cartões podem ser abertos individualmente, e o botão da seção permite abrir todas as respostas."
+    ],
+    [
+      "O que aparece nas fichas técnicas?",
+      "No caderno, elas têm campos de ingredientes, quantidades, preços, rendimento, modo de preparo e custo. A página mostra um exemplo didático para explicar a relação entre esses dados."
+    ],
+    [
+      "Há uma semana preenchida para conhecer?",
+      "Sim. A agenda mostra aulas, revisão, estágio, prática, seminário, prova e entrega, com a explicação do objetivo de cada bloco."
+    ],
+    [
+      "Como funciona a parte de TCC?",
+      "O ambiente reúne projeto, literatura, método, coleta, análise, escrita, orientação e defesa, com exemplo preenchido de Gastronomia e possibilidade de organizar um novo trabalho."
+    ],
+    [
+      "O estágio tem uma área própria?",
+      "Sim. O caderno inclui diário, horas, competências, atividades e aprendizados, além da organização do relatório final."
+    ],
+    [
+      "Tem planos de oficinas e atividades de ensino?",
+      "A página apresenta planos com objetivo, materiais, desenvolvimento e avaliação para estágio, monitoria, treinamento e prática docente."
+    ],
+    [
+      "Funciona no celular?",
+      "O layout adapta cartões e textos para celular, tablet e computador. A semana e os planos de oficinas aparecem por inteiro, sem carrossel."
+    ],
+    [
+      "Quanto custa o produto?",
+      "O valor apresentado é R$ 69,99, em pagamento único. As condições finais de pagamento são apresentadas no checkout do produto."
+    ],
+    [
+      "Como recebo as orientações de acesso?",
+      "Após a confirmação do pagamento, as informações são enviadas ao e-mail informado na compra."
+    ],
+    [
+      "Posso solicitar reembolso?",
+      "O prazo apresentado para solicitar reembolso é de 7 dias. Mantenha as informações do pedido para identificar a compra no atendimento."
+    ],
+    [
+      "As anotações sincronizam entre equipamentos?",
+      "Os registros editáveis do caderno ficam no navegador utilizado. A apresentação não oferece sincronização automática entre dispositivos."
+    ]
+  ]
+}
