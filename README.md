@@ -34,7 +34,7 @@ Consulta técnica complementar: Cartilha sobre Boas Práticas para Serviços de 
 
 ## Checkout
 
-Preço de apresentação: R$ 49,99. Checkout de Gastronomia: `https://pay.cakto.com.br/62ayqtc`. O link está configurado em `assets/config.json` e nos botões estáticos de `index.html` e `404.html`. Os botões abrem em nova aba, com texto branco sobre verde. Não é presumida taxa de plataforma. A configuração do site não altera o preço em plataformas externas.
+Preço de apresentação: R$ 87,99. Checkout de Gastronomia: `https://pay.cakto.com.br/62ayqtc`. O link está configurado em `assets/config.json` e nos botões estáticos de `index.html` e `404.html`. Os botões abrem em nova aba, com texto branco sobre verde. Não é presumida taxa de plataforma. A configuração do site não altera o preço em plataformas externas.
 
 ## Build e publicação
 
