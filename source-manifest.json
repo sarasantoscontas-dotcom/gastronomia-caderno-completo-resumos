@@ -7,12 +7,12 @@
   {
     "path": "404.html",
     "bytes": 74428,
-    "sha256": "fb3b88cd48c2616e03107d1371086d52d64a9351225d8c692c6a582d6d4b82ee"
+    "sha256": "8f10601777111e977c69e9c7bfbc4b40133afd83de7aa00de3d6ca407a22fcab"
   },
   {
     "path": "README.md",
     "bytes": 3536,
-    "sha256": "296386c585417f45925308a9feac17f209beb048402f105e4168fb7c1bc81ef4"
+    "sha256": "710c1472096495798ec90d0f9e6ebe9dcd29407565a8d41b31986330e4a4a673"
   },
   {
     "path": "_redirects",
@@ -27,7 +27,7 @@
   {
     "path": "assets/config.json",
     "bytes": 103,
-    "sha256": "d12bfcfe1e6a8fae73c9575be8a0967fe2e455dd523045bbe61caa19d0cf737c"
+    "sha256": "c2f3f102973227329b7f7a3eaafe48c163ad3a35855b67a508702682a1b52d9a"
   },
   {
     "path": "assets/content.json",
@@ -37,7 +37,7 @@
   {
     "path": "assets/presentation.json",
     "bytes": 17176,
-    "sha256": "21c5133dd5ddaab5199da97642ce72336fb7d0d77ad05a4755ca8c4a27ebc1b1"
+    "sha256": "f99e015648ffaa2ff01245b0b5dfd755a13dd811eae4c53210ce3bbcf6fe2daa"
   },
   {
     "path": "assets/style.css",
@@ -47,7 +47,7 @@
   {
     "path": "index.html",
     "bytes": 74428,
-    "sha256": "fb3b88cd48c2616e03107d1371086d52d64a9351225d8c692c6a582d6d4b82ee"
+    "sha256": "8f10601777111e977c69e9c7bfbc4b40133afd83de7aa00de3d6ca407a22fcab"
   },
   {
     "path": "package.json",
